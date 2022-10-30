@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Artem
+### Hi friends, my name is Artem
 ![ I am a professional programmer but in the future](https://github.com/Jony2Good/Jony2Good/blob/main/assets/logo.png)
 
 
