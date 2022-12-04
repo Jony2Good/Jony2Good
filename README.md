@@ -10,7 +10,7 @@
 * 📫 How to reach me: email me on [akk_12@mail.ru](mailto:akk_12@mail.ru)
 * ✉️  You also can contact me by Telegram [Bro](https://t.me/Bro)
 * 🚀  I'm currently working as a lawyer in the civil service
-* 🧠  Plans to master the following web technologies: PHP/TypeScript/React/NodeJS
+* 🧠  Plans to master the following web technologies: TypeScript/React/PHP/NodeJS
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
