@@ -40,6 +40,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jony2Good&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jony2Good)  
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jony2Good)  ](https://ashutosh00710.github.io/github-readme-activity-graph/#:~:text=%5B!%5BAshutosh%27s%20github%20activity%20graph%5D(https%3A//github%2Dreadme%2Dactivity%2Dgraph.cyclic.app/graph%3Fusername%3DJony2Good%26bg_color%3Dffcfe9%26color%3D9e4c98%26line%3D9e4c98%26point%3D403d3d%26area%3Dtrue%26hide_border%3Dtrue)%5D(https%3A//github.com/ashutosh00710/github%2Dreadme%2Dactivity%2Dgraph))
 
 ![Profile views](https://gpvc.arturio.dev/Jony2Good)  
