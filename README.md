@@ -22,7 +22,7 @@
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Webpack](https://img.shields.io/badge/Webpack-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Parcel](https://img.shields.io/badge/Parcel-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -32,6 +32,7 @@
 ![CodeWars](https://www.codewars.com/users/Jony2Good/badges/micro)
 ![Chat.js](https://img.shields.io/badge/Chat.JS-FFFC00?style=for-the-badge&logo=chat.js&logoColor=white)
 ![Navigo](https://img.shields.io/badge/Navigo-000000?style=for-the-badge&logo=rout&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIp-005AF0?style=for-the-badge&logo=amp&logoColor=white)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jony2Good)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zebetterbest/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Jony2Good)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/akk_12@mail.ru)  
