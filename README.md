@@ -2,7 +2,7 @@
 ![ I am a professional programmer but in the future](https://github.com/Jony2Good/Jony2Good/blob/main/assets/logo.png)
 
 
-## 💫 About Me ![kitty-review](https://user-images.githubusercontent.com/91899278/219883548-51704d86-c212-4aa6-93f2-2361d03946d3.gif):
+## 💫 About Me:
 * :desktop_computer:	**Frontend Developer**
 * 🌍  I'm based in Krasnodar
 * 🔭 I’m currently working on building various applications using JavaScript 
