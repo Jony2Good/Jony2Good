@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Artem
+### Hi there ![kitty](https://user-images.githubusercontent.com/91899278/219883293-589c729c-8f61-4e08-bdbd-b98d947f9daa.gif), my name is Artem
 ![ I am a professional programmer but in the future](https://github.com/Jony2Good/Jony2Good/blob/main/assets/logo.png)
 
 
