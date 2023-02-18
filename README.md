@@ -3,7 +3,7 @@
 
 
 ## 💫 About Me:
-![animal-kitty](https://user-images.githubusercontent.com/91899278/219883692-617173db-cda8-4612-9b08-a8ff296039cf.gif)
+![hug-day](https://user-images.githubusercontent.com/91899278/219883834-943080cb-ba92-499b-81bb-09a5c537bca6.gif)
 * :desktop_computer:	**Frontend Developer**
 * 🌍  I'm based in Krasnodar
 * 🔭 I’m currently working on building various applications using JavaScript 
