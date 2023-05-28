@@ -6,12 +6,12 @@
 ![hug-day](https://user-images.githubusercontent.com/91899278/219883834-943080cb-ba92-499b-81bb-09a5c537bca6.gif)
 * :desktop_computer:	**Frontend Developer**
 * 🌍  I'm based in Krasnodar
-* 🔭 I’m currently working on building various applications using JavaScript 
+* 🔭 I’m currently working on building various applications using PHP/Laravel and JavaScript 
 * 👯 I’m looking to collaborate on with web developers with whom we can grow together as professionals 
 * 📫 How to reach me: email me on [akk_12@mail.ru](mailto:akk_12@mail.ru)
 * ✉️  You also can contact me by Telegram [Bro](https://t.me/Bro)
 * 🚀  I'm currently working as a lawyer in the civil service
-* 🧠  Plans to master the following web technologies: TypeScript/React/PHP/NodeJS
+* 🧠  Plans to master the following web technologies: Laravel/PHP, ORM 
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
