@@ -5,12 +5,12 @@
 ## 💫 About Me:
 ![hug-day](https://user-images.githubusercontent.com/91899278/219883834-943080cb-ba92-499b-81bb-09a5c537bca6.gif)
 * :desktop_computer:	**Frontend Developer**
-* 🌍  I'm based in Krasnodar
-* 🔭 I’m currently working on building various applications using PHP/Laravel and JavaScript 
-* 👯 I’m looking to collaborate on with web developers with whom we can grow together as professionals 
+* 🌍  I'm based in Krasnodar, Russian Federation
+* 🔭 I’m currently working on building various applications using PHP/Laravel/MySQL/PostgreSQL and HTML/CSS/JavaScript 
+* 👯 I’m ready to cooperate with web developers to create the best applications in the world
 * 📫 How to reach me: email me on [akk_12@mail.ru](mailto:akk_12@mail.ru)
 * ✉️  You also can contact me by Telegram [Bro](https://t.me/Bro)
-* 🚀  I'm currently working as a lawyer in the civil service
+* 🚀  I'm currently working as a freelancer
 * 🧠  Plans to master the following web technologies: Laravel/PHP, ORM, REST API, UML, patterns and algorithms. 
 
 ## 💻 Tech Stack:
@@ -42,7 +42,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jony2Good)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zebetterbest/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Jony2Good)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/akk_12@mail.ru)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jony2Good)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jony2Good&show_icons=true)  
 
