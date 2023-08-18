@@ -38,7 +38,6 @@
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Chat.js](https://img.shields.io/badge/Chat.JS-FFFC00?style=for-the-badge&logo=chat.js&logoColor=white)
 ![Navigo](https://img.shields.io/badge/Navigo-000000?style=for-the-badge&logo=rout&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005AF0?style=for-the-badge&logo=amp&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![CodeWars](https://www.codewars.com/users/Jony2Good/badges/micro)
