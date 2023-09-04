@@ -24,8 +24,8 @@
 ## ⚡ Additional tools
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Eloquent](https://img.shields.io/badge/Eloquent-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-![Blade](https://img.shields.io/badge/Social%20Blade-B3382C.svg?style=for-the-badge&logo=Blade&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=PHPUnit&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-B3382C.svg?style=for-the-badge&logo=Blade&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-25A162.svg?style=for-the-badge&logo=PHPUnit&logoColor=white)
 ![REDIS](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![PHPMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
