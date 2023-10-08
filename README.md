@@ -1,17 +1,17 @@
-### Hi![kitty](https://user-images.githubusercontent.com/91899278/219883293-589c729c-8f61-4e08-bdbd-b98d947f9daa.gif), my name is Artem
+### Hi![kitty](https://user-images.githubusercontent.com/91899278/219883293-589c729c-8f61-4e08-bdbd-b98d947f9daa.gif), my name is Jony
 ![ I am back-end developer trying to be full stack](https://github.com/Jony2Good/Jony2Good/blob/main/assets/logo.png)
 
 
 ## 💫 About Me:
 ![hug-day](https://user-images.githubusercontent.com/91899278/219883834-943080cb-ba92-499b-81bb-09a5c537bca6.gif)
 * :desktop_computer:	**Back-end Developer**
-* 🌍  I'm based in Krasnodar, Russian Federation
+* 🌍  I'm based in Space
 * 🔭 I’m currently working on building various applications using PHP/Laravel/MySQL/PostgreSQL and HTML/CSS/JavaScript 
 * 👯 I’m ready to cooperate with web developers to create the best applications in the world
-* 📫 How to reach me: email me on [akk_12@mail.ru](mailto:akk_12@mail.ru)
+* 📫 How to reach me: email me on [mishaluckyboy@gmail.com]([mishaluckyboy@gmail.com)
 * ✉️  You also can contact me by Telegram [Bro](https://t.me/Bro)
 * 🚀  I'm currently working as a freelancer
-* 🧠  Plans to master the following web technologies: Laravel/PHP, ORM, REST API, UML, patterns and algorithms. 
+* 🧠  Plans to master the following web technologies: Laravel/PHP, ORM Eloquent, Open API/Swagger, Docker, Linux. 
 
 ## 💻 Base tech stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
