@@ -6,7 +6,7 @@
 ![hug-day](https://user-images.githubusercontent.com/91899278/219883834-943080cb-ba92-499b-81bb-09a5c537bca6.gif)
 * :desktop_computer:	**Back-end Developer**
 * 🌍  I'm based in Space
-* 🔭 I’m currently working on building various applications using PHP/Laravel/MySQL/PostgreSQL and HTML/CSS/JavaScript 
+* 🔭 I’m currently working on building various applications using PHP/Laravel/MySQL/PostgreSQL and JavaScript/JQuery/HTML/CSS/Bootstrap
 * 👯 I’m ready to cooperate with web developers to create the best applications in the world
 * 📫 How to reach me: email me on [jony2good]([jonyTooGood@gmail.com)
 * ✉️  You also can contact me by Telegram [Bro](https://t.me/jony2good)
