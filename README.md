@@ -35,7 +35,7 @@
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Parcel](https://img.shields.io/badge/Parcel-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?&style=plastic&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 ## 📦 Database services
